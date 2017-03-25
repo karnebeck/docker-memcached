@@ -1,4 +1,4 @@
-FROM memcached:1.4.25
+FROM memcached:1.4.35
 
 # Default Memcached run command arguments
 CMD ["-m", "100"]
